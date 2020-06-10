@@ -1,3 +1,4 @@
+CREATE SCHEMA `squirrel_nyc` ;
 USE squirrel_nyc;
 CREATE TABLE nyc_squirrels(
 	X FLOAT,
